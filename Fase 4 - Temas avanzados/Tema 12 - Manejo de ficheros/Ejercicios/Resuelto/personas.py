@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 from io import open
-import pickle
 
 class Personas():
 
